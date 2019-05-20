@@ -1,0 +1,322 @@
+[ 2019-03-22T15:46:57+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+ERR: 1146:Table 'thinkphp.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'thinkphp.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 231 行.
+
+[ 2019-03-22T15:47:11+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.1329s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 10 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002474s ]
+
+[ 2019-03-22T15:47:33+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php??username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,user(),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0109s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 10 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2019-03-22T15:47:45+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,user(),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001983s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0284s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 10 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001974s ]
+
+[ 2019-03-22T15:48:28+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,user(),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0302s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 10 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003094s ]
+
+[ 2019-03-22T15:48:46+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0195s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 10 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001937s ]
+
+[ 2019-03-22T15:48:48+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0271s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 10 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003038s ]
+
+[ 2019-03-22T15:48:50+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0179s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 10 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001639s ]
+
+[ 2019-03-22T15:49:41+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003179s ]
+
+[ 2019-03-22T15:49:43+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001798s ]
+
+[ 2019-03-22T15:53:30+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0276s ]
+SQL: UPDATE `test` SET `password`='1998' WHERE `name` = '' [ RunTime:0.0154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003249s ]
+
+[ 2019-03-22T16:09:10+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `test` WHERE ( id )  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000891s ]
+
+[ 2019-03-22T16:09:24+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `test` WHERE ( id )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2019-03-22T16:10:23+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2019-03-22T16:20:26+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001929s ]
+
+[ 2019-03-22T16:20:31+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002901s ]
+
+[ 2019-03-22T16:25:02+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001552s ]
+
+[ 2019-03-22T16:25:40+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0304s ]
+SQL: UPDATE `test` SET `password`='1998' [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002702s ]
+
+[ 2019-03-22T16:25:56+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0224s ]
+SQL: UPDATE `test` SET `password`='1998' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001648s ]
+
+[ 2019-03-22T16:26:00+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0286s ]
+SQL: UPDATE `test` SET `password`='1998' [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001210s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001622s ]
+
+[ 2019-03-22T16:32:17+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001586s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0237s ]
+SQL: UPDATE `test` SET `password`='1998' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001506s ]
+
+[ 2019-03-22T16:33:05+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0302s ]
+SQL: UPDATE `test` SET `password`='1998' [ RunTime:0.0010s ]
+
+[ 2019-03-22T16:58:56+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0272s ]
+SQL: UPDATE `test` SET `password`='test' [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001377s ]
+
+[ 2019-03-22T17:04:29+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/Thinkphp/index.php?username[0]=bind&username[1]=0%20and%20updatexml(1,concat(0x7,database()),0x7e),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001815s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0312s ]
+SQL: UPDATE `test` SET `password`='test' [ RunTime:8.6018s ]
+

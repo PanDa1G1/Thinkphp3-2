@@ -1,0 +1,25 @@
+[ 2019-04-12T09:02:42+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/THINKPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0892s ]
+NOTIC: [8] Undefined index: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php 第 8 行.
+SQL: UPDATE `test` SET `name`='test',`password`='123' WHERE `name` = null [ RunTime:0.0244s ]
+NOTIC: [8] Undefined variable: fetch D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003078s ]
+
+[ 2019-04-12T09:02:57+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/THINKPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `test` [ RunTime:0.0279s ]
+NOTIC: [8] Undefined index: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php 第 8 行.
+

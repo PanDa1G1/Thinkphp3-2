@@ -1,0 +1,90 @@
+[ 2018-11-07T17:25:21+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/User/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:26:50+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/User/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:29:18+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Twst/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:29:25+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Twst/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:29:39+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:29:42+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001313s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:30:11+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001741s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:30:26+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:30:28+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:40:41+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:52:29+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/jump
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:55:31+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/jump
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:55:32+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/jump
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:56:04+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/jump
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-07T17:56:40+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/jump
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Jump
+

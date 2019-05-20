@@ -1,0 +1,54 @@
+[ 2018-11-06T14:18:36+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-06T14:18:42+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-06T14:18:44+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/test/test1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-06T14:19:02+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Test/test1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-06T14:19:09+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/Test/Test1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+ERR: 无法加载模块:Shenji
+
+[ 2018-11-06T18:58:36+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/test/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Test
+
+[ 2018-11-06T18:58:37+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/test/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Test
+
+[ 2018-11-06T18:58:37+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/test/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Test
+
+[ 2018-11-06T18:58:38+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/test/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Test
+

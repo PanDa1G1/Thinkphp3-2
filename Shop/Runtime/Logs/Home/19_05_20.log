@@ -1,0 +1,2141 @@
+[ 2019-05-20T06:47:30+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005937s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001910s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038995s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010439s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001528s ]
+
+[ 2019-05-20T06:48:25+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002048s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000736s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014117s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001648s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2019-05-20T06:48:52+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000590s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012533s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001428s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0175s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002992s ]
+
+[ 2019-05-20T06:49:29+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000403s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001009s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000955s ]
+
+[ 2019-05-20T06:50:24+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000455s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010780s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0175s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002935s ]
+
+[ 2019-05-20T06:52:58+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000852s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001876s ]
+
+[ 2019-05-20T06:53:02+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005039s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000993s ]
+
+[ 2019-05-20T06:54:06+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001585s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000303s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001235s ]
+
+[ 2019-05-20T06:54:10+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2019-05-20T06:54:34+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003033s ]
+
+[ 2019-05-20T06:55:26+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003004s ]
+
+[ 2019-05-20T06:55:47+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002718s ]
+
+[ 2019-05-20T06:55:56+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2019-05-20T06:56:09+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001622s ]
+
+[ 2019-05-20T06:57:55+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2019-05-20T06:58:06+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000239s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2019-05-20T07:08:27+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001211s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012592s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='guest' )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000933s ]
+
+[ 2019-05-20T07:08:28+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002775s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 9 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000352s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2019-05-20T07:08:33+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 9 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2019-05-20T07:16:22+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 9 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014039s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2019-05-20T07:17:32+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/shangpin_type
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `商品`  [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 15 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000310s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017757s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001098s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005480s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003690s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001792s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011370s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004964s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006623s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.010711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001231s ]
+
+[ 2019-05-20T07:19:18+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/shangpin_type
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `商品`  [ RunTime:0.0006s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 15 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006232s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000772s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004006s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003359s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002660s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001142s ]
+
+[ 2019-05-20T07:19:44+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/shangpin_type
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `商品`  [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 15 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012212s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003875s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002131s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001480s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003063s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006836s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002085s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2019-05-20T07:19:49+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/shangpin_type
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `商品`  [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 15 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006614s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000981s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004612s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002874s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003850s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008346s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002682s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005645s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001287s ]
+
+[ 2019-05-20T07:21:22+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0087s ]
+SQL: SELECT 商品.suppler_num,供货商.name FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number   [ RunTime:0.0009s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 26 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000279s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001139s ]
+NOTIC: [8] Undefined variable: kucun_count D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Runtime\Cache\Home\9e26bbde4dd643dfcd6a3a26a1b09edf.php 第 4 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.010857s ]
+NOTIC: [8] Undefined variable: kucun_count D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Runtime\Cache\Home\9e26bbde4dd643dfcd6a3a26a1b09edf.php 第 4 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007326s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003038s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.009318s ]
+NOTIC: [8] Undefined offset: 2 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000272s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.022114s ]
+NOTIC: [8] Undefined variable: kucun_count D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Runtime\Cache\Home\9e26bbde4dd643dfcd6a3a26a1b09edf.php 第 4 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009164s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.013342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.021438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001994s ]
+
+[ 2019-05-20T07:21:57+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0092s ]
+SQL: SELECT 商品.suppler_num,供货商.name FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 26 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+NOTIC: [8] Undefined variable: kucun_count D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Runtime\Cache\Home\9e26bbde4dd643dfcd6a3a26a1b09edf.php 第 3 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001059s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004518s ]
+NOTIC: [8] Undefined variable: kucun_count D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Runtime\Cache\Home\9e26bbde4dd643dfcd6a3a26a1b09edf.php 第 3 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002879s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003654s ]
+NOTIC: [8] Undefined offset: 2 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008676s ]
+NOTIC: [8] Undefined variable: kucun_count D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Runtime\Cache\Home\9e26bbde4dd643dfcd6a3a26a1b09edf.php 第 3 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002773s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005701s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001009s ]
+
+[ 2019-05-20T07:23:02+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0105s ]
+ERR: 1054:Unknown column '商品.kuncun_count' in 'field list'
+ [ SQL语句 ] : SELECT 商品.suppler_num,供货商.name,商品.kuncun_count FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number  
+ERR: 1054:Unknown column '商品.kuncun_count' in 'field list'
+ [ SQL语句 ] : SELECT 商品.suppler_num,供货商.name,商品.kuncun_count FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number  
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 231 行.
+
+[ 2019-05-20T07:26:22+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0060s ]
+ERR: 1054:Unknown column '商品.kuncun_count' in 'field list'
+ [ SQL语句 ] : SELECT 商品.suppler_num,商品.kuncun_count,供货商.name,`` FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number  
+ERR: 1054:Unknown column '商品.kuncun_count' in 'field list'
+ [ SQL语句 ] : SELECT 商品.suppler_num,商品.kuncun_count,供货商.name,`` FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number  
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 231 行.
+
+[ 2019-05-20T07:26:25+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001917s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0069s ]
+ERR: 1054:Unknown column '商品.kuncun_count' in 'field list'
+ [ SQL语句 ] : SELECT 商品.suppler_num,商品.kuncun_count,供货商.name,`` FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number  
+ERR: 1054:Unknown column '商品.kuncun_count' in 'field list'
+ [ SQL语句 ] : SELECT 商品.suppler_num,商品.kuncun_count,供货商.name,`` FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number  
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 231 行.
+
+[ 2019-05-20T07:27:11+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0041s ]
+ERR: 1054:Unknown column '商品.kuncun_count' in 'field list'
+ [ SQL语句 ] : SELECT 商品.suppler_num,商品.kuncun_count,供货商.name FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number  
+ERR: 1054:Unknown column '商品.kuncun_count' in 'field list'
+ [ SQL语句 ] : SELECT 商品.suppler_num,商品.kuncun_count,供货商.name FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number  
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Db\Driver.class.php:170) D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Think.class.php 第 231 行.
+
+[ 2019-05-20T07:27:24+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0040s ]
+SQL: SELECT 商品.suppler_num,供货商.name FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 26 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+NOTIC: [8] Undefined variable: kucun_count D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Runtime\Cache\Home\9e26bbde4dd643dfcd6a3a26a1b09edf.php 第 3 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000964s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004789s ]
+NOTIC: [8] Undefined variable: kucun_count D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Runtime\Cache\Home\9e26bbde4dd643dfcd6a3a26a1b09edf.php 第 3 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002981s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008200s ]
+NOTIC: [8] Undefined variable: kucun_count D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Runtime\Cache\Home\9e26bbde4dd643dfcd6a3a26a1b09edf.php 第 3 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002439s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000919s ]
+
+[ 2019-05-20T07:27:56+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0047s ]
+SQL: SELECT 商品.suppler_num,商品.kucun_count,供货商.name FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number   [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 26 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001249s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004756s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002922s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003854s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008731s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002604s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2019-05-20T07:28:29+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0056s ]
+SQL: SELECT 商品.suppler_num,商品.kucun_count,供货商.name FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number   [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 26 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004293s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002502s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003136s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.007509s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002412s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000954s ]
+
+[ 2019-05-20T07:28:56+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0056s ]
+SQL: SELECT 商品.suppler_num,商品.kucun_count,供货商.name FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number   [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 26 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000796s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002927s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003615s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.007661s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002644s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001697s ]
+
+[ 2019-05-20T07:32:13+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/sell_shangpin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000387s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.362104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.362297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2019-05-20T07:33:17+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/sell_shangpin?shang_name=%E5%92%96%E5%95%A1&shang_num=20&xiaoshouyuan=sunsec&fapiao_num=003&submit=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000327s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006761s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001109s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0094s ]
+SQL: SELECT `kucun_count` FROM `商品` WHERE ( shangpin_name='咖啡' )  [ RunTime:0.0003s ]
+SQL: UPDATE `商品` SET `kucun_count`='200' WHERE ( shangpin_name='咖啡' ) [ RunTime:0.0003s ]
+SQL: SELECT * FROM `商品` WHERE ( shangpin_name='咖啡' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `销售信息表` [ RunTime:0.0043s ]
+SQL: INSERT INTO `销售信息表` (`fapiao_num`,`shangpin_num`,`shangpin_name`,`xiaoshou_price`,`xiaoshou_count`,`pay_money`,`date`,`xiaoshouyuan`) VALUES ('003','003','咖啡','10','20','200','2019/05/20','sunsec') [ RunTime:0.0004s ]
+SQL: SELECT * FROM `销售信息表` WHERE ( fapiao_num='003' )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:-1.039703s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004722s ]
+INFO: [ view_parse ] --END-- [ RunTime:-1.035685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ view_filter ] --END-- [ RunTime:-1.039622s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000935s ]
+
+[ 2019-05-20T07:34:22+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/gonghuoshang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0089s ]
+SQL: SELECT 商品.suppler_num,商品.kucun_count,供货商.name FROM `商品` INNER JOIN 供货商 ON 商品.suppler_num = 供货商.number   [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 26 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1798 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1806 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1809 行.
+NOTIC: [8] Undefined variable: where D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Model.class.php 第 1817 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008833s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001059s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003815s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001747s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004717s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.010226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003843s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.009717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001552s ]
+
+[ 2019-05-20T07:36:43+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/jinhuo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: SHOW COLUMNS FROM `进货` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `进货`  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `进货` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001071s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006616s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004527s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005947s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.013442s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004557s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.012543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001247s ]
+
+[ 2019-05-20T07:37:40+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/selling
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+SQL: SHOW COLUMNS FROM `销售信息表` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `销售信息表`  [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `销售信息表` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000535s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.288911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.289140s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006601s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005300s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006238s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.013059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004855s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.012255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001225s ]
+
+[ 2019-05-20T07:38:13+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/shangpin_message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001576s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `商品`  [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `商品` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009090s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000866s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005460s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004396s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005341s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005190s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001132s ]
+
+[ 2019-05-20T07:39:26+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001185s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001478s ]
+
+[ 2019-05-20T07:40:03+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/add_ghs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.101790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `供货商` [ RunTime:0.0077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001670s ]
+
+[ 2019-05-20T07:41:10+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/add_ghs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001510s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000337s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `供货商` [ RunTime:0.0103s ]
+SQL: INSERT INTO `供货商` (`number`,`name`,`address`,`lianxiren`,`lianxi_way`) VALUES ('004','炫迈','北京','tttt','8888888') [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002974s ]
+
+[ 2019-05-20T07:43:01+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/add_ghs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002873s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014658s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001131s ]
+SQL: SHOW COLUMNS FROM `供货商` [ RunTime:0.0091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001101s ]
+
+[ 2019-05-20T07:43:04+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/change_ghs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000847s ]
+SQL: SHOW COLUMNS FROM `供货商` [ RunTime:0.0104s ]
+SQL: UPDATE `供货商` SET `number`='',`name`='',`address`='',`lianxiren`='',`lianxi_way`='' WHERE ( number='' ) [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001549s ]
+
+[ 2019-05-20T07:44:26+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/change_ghs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001598s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `供货商` [ RunTime:0.0055s ]
+SQL: UPDATE `供货商` SET `number`='004',`name`='炫迈',`address`='北京',`lianxiren`='dfg',`lianxi_way`='8888888' WHERE ( number='004' ) [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002118s ]
+
+[ 2019-05-20T07:46:16+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/change_ghs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007289s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001135s ]
+SQL: SHOW COLUMNS FROM `供货商` [ RunTime:0.0089s ]
+SQL: UPDATE `供货商` SET `number`='',`name`='',`address`='',`lianxiren`='',`lianxi_way`='' WHERE ( number='' ) [ RunTime:0.0065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003045s ]
+
+[ 2019-05-20T07:46:20+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001094s ]
+
+[ 2019-05-20T07:46:24+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/delete_ghs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000606s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001761s ]
+SQL: SHOW COLUMNS FROM `供货商` [ RunTime:0.0062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001517s ]
+
+[ 2019-05-20T07:47:01+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/delete_ghs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001477s ]
+SQL: SHOW COLUMNS FROM `供货商` [ RunTime:0.0062s ]
+SQL: DELETE FROM `供货商` WHERE ( number='004' ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001244s ]
+
+[ 2019-05-20T07:48:30+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001818s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000367s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000851s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000996s ]
+
+[ 2019-05-20T07:48:33+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/add_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000349s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001094s ]
+
+[ 2019-05-20T07:49:21+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/add_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001340s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000299s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0086s ]
+SQL: INSERT INTO `商品` (`shangpin_num`,`shangpin_name`,`shangpin_type`,`shangpin_price`,`shangpin_guige`,`kucun_count`,`suppler_num`) VALUES ('004','雪碧','饮品','3','500ml','50','005') [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007677s ]
+
+[ 2019-05-20T07:49:28+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/add_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000328s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001252s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003865s ]
+
+[ 2019-05-20T07:51:43+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/change_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000337s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.335605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.335845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000873s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0048s ]
+SQL: UPDATE `商品` SET `shangpin_num`='',`shangpin_name`='',`shangpin_type`='',`shangpin_price`='',`shangpin_guige`='',`kucun_count`='0',`suppler_num`='' WHERE ( shangpin_num='' ) [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001221s ]
+
+[ 2019-05-20T07:52:01+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/change_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000670s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009055s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0042s ]
+SQL: UPDATE `商品` SET `shangpin_num`='004',`shangpin_name`='雪碧',`shangpin_type`='饮品',`shangpin_price`='10',`shangpin_guige`='500ml',`kucun_count`='20',`suppler_num`='005' WHERE ( shangpin_num='004' ) [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001048s ]
+
+[ 2019-05-20T07:52:04+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/change_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006621s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0054s ]
+SQL: UPDATE `商品` SET `shangpin_num`='',`shangpin_name`='',`shangpin_type`='',`shangpin_price`='',`shangpin_guige`='',`kucun_count`='0',`suppler_num`='' WHERE ( shangpin_num='' ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001774s ]
+
+[ 2019-05-20T07:52:59+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/change_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001757s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008427s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0061s ]
+SQL: UPDATE `商品` SET `shangpin_num`='004',`shangpin_name`='雪碧',`shangpin_type`='饮品',`shangpin_price`='5',`shangpin_guige`='500ml',`kucun_count`='20',`suppler_num`='005' WHERE ( shangpin_num='004' ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001205s ]
+
+[ 2019-05-20T07:53:52+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/change_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008644s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0071s ]
+SQL: UPDATE `商品` SET `shangpin_num`='',`shangpin_name`='',`shangpin_type`='',`shangpin_price`='',`shangpin_guige`='',`kucun_count`='0',`suppler_num`='' WHERE ( shangpin_num='' ) [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001076s ]
+
+[ 2019-05-20T07:53:54+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/delete_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001344s ]
+
+[ 2019-05-20T07:55:14+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/delete_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001110s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0057s ]
+SQL: DELETE FROM `商品` WHERE ( shangpin_num='004' ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001245s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001409s ]
+
+[ 2019-05-20T07:56:09+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/delete_sp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001247s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000237s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007143s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001749s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001449s ]
+
+[ 2019-05-20T07:56:13+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/jinhuo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002180s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001370s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `商品` WHERE ( shangpin_num='' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php 第 89 行.
+NOTIC: [8] Undefined offset: 0 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php 第 90 行.
+NOTIC: [8] Undefined offset: 0 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php 第 92 行.
+NOTIC: [8] Undefined offset: 0 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php 第 93 行.
+SQL: SHOW COLUMNS FROM `进货` [ RunTime:0.0097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001154s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2019-05-20T07:58:11+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/jinhuo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007161s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001698s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `商品` WHERE ( shangpin_num='003' )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `进货` [ RunTime:0.0049s ]
+SQL: INSERT INTO `进货` (`huodan_num`,`supplier_num`,`shangpin_num`,`count`,`price`,`date`) VALUES ('004','003','003','100','10','2019/5/20') [ RunTime:0.0004s ]
+SQL: UPDATE `商品` SET `shangpin_num`='003',`shangpin_name`='咖啡',`shangpin_type`='饮品',`shangpin_price`='10',`shangpin_guige`='200g',`kucun_count`='300',`suppler_num`='003' WHERE ( shangpin_num='003' ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000938s ]
+
+[ 2019-05-20T07:58:43+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/jinhuo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006670s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001339s ]
+SQL: SHOW COLUMNS FROM `商品` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `商品` WHERE ( shangpin_num='' )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php 第 89 行.
+NOTIC: [8] Undefined offset: 0 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php 第 90 行.
+NOTIC: [8] Undefined offset: 0 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php 第 92 行.
+NOTIC: [8] Undefined offset: 0 D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php 第 93 行.
+SQL: SHOW COLUMNS FROM `进货` [ RunTime:0.0047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001833s ]
+
+[ 2019-05-20T07:58:54+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/aguest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+ERR: 无法加载控制器:Aguest
+
+[ 2019-05-20T07:58:57+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\GuestController.class.php on line 9 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000966s ]
+
+[ 2019-05-20T07:59:02+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/guest/jinhuo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+SQL: SHOW COLUMNS FROM `进货` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `进货`  [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `进货` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006916s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001054s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004927s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003038s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003783s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.009132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003217s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007866s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.012849s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003518s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.009611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.012337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000886s ]
+
+[ 2019-05-20T13:03:30+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\IndexController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000304s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016667s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `users` WHERE ( name=0 and password='' )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2019-05-20T13:03:50+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::assign(), called in D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php on line 7 and defined D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 121 行.
+NOTIC: [8] Undefined variable: name D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Library\Think\Controller.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000249s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2019-05-20T13:04:05+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000823s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003088s ]
+
+[ 2019-05-20T13:04:13+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001811s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000337s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000608s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0135s ]
+SQL: INSERT INTO `users` (`name`,`password`,`type`) VALUES ('root','root','guest') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003116s ]
+
+[ 2019-05-20T13:07:41+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000970s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2019-05-20T13:07:43+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/privilege_change
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000221s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000749s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0109s ]
+SQL: UPDATE `users` SET `name`='',`type`='' WHERE ( name='' ) [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002548s ]
+
+[ 2019-05-20T13:08:55+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/privilege_change
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000383s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000729s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0067s ]
+SQL: UPDATE `users` SET `name`='root',`type`='administrator' WHERE ( name='root' ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000867s ]
+
+[ 2019-05-20T13:10:04+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/privilege_change
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002280s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001123s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0066s ]
+SQL: UPDATE `users` SET `name`='',`type`='' WHERE ( name='' ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001182s ]
+
+[ 2019-05-20T13:10:07+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/privilege_change
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006363s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001037s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0062s ]
+SQL: UPDATE `users` SET `name`='',`type`='' WHERE ( name='' ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2019-05-20T13:10:10+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/delete_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002261s ]
+
+[ 2019-05-20T13:10:19+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/delete_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013566s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001037s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0145s ]
+SQL: DELETE FROM `users` WHERE ( name='root' ) [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004090s ]
+
+[ 2019-05-20T13:16:37+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/delete_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001890s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001211s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001244s ]
+
+[ 2019-05-20T13:16:41+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/home/admin/exportDatabase
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+SQL: show tables [ RunTime:0.0016s ]
+NOTIC: [2] mkdir(): Invalid path D:\PhpStudy20180211\PHPTutorial\WWW\shenji\thinkphp3.2\ThinkPHP\Shop\Home\Controller\AdminController.class.php 第 156 行.
+SQL: show create table 供货商 [ RunTime:0.0010s ]
+SQL: select * from 供货商 [ RunTime:0.0007s ]
+SQL: show create table 商品 [ RunTime:0.0009s ]
+SQL: select * from 商品 [ RunTime:0.0007s ]
+SQL: show create table 进货 [ RunTime:0.0011s ]
+SQL: select * from 进货 [ RunTime:0.0008s ]
+SQL: show create table 销售信息表 [ RunTime:0.0005s ]
+SQL: select * from 销售信息表 [ RunTime:0.0005s ]
+SQL: show create table users [ RunTime:0.0005s ]
+SQL: select * from users [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001309s ]
+

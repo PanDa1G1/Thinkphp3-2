@@ -1,0 +1,6 @@
+[ 2019-05-18T17:45:42+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/shop/sun
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+ERR: 无法加载模块:Shop
+

@@ -1,0 +1,78 @@
+[ 2019-03-14T10:26:42+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+ERR: 无法加载模块:Shenji
+
+[ 2019-03-14T10:29:06+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 无法加载模块:Shenji
+
+[ 2019-03-14T10:29:15+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 无法加载模块:1
+
+[ 2019-03-14T10:31:30+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:1
+
+[ 2019-03-14T10:32:45+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/aaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+ERR: 无法加载模块:Aaa
+
+[ 2019-03-14T10:32:50+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+ERR: 无法加载模块:Index
+
+[ 2019-03-14T10:46:52+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+ERR: 无法加载模块:1
+
+[ 2019-03-14T10:47:03+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:1
+
+[ 2019-03-14T10:48:37+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/index/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+ERR: 无法加载模块:Index
+
+[ 2019-03-14T10:48:45+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:1
+
+[ 2019-03-14T10:49:52+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Id
+
+[ 2019-03-14T10:50:07+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+ERR: 无法加载模块:Id
+
+[ 2019-03-14T10:50:20+08:00 ] 127.0.0.1 /shenji/thinkphp3.2/thinkphp/index.php/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+ERR: 无法加载模块:Id
+
